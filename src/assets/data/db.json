@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 19.99,
+      "description": "This is product 1.",
+      "image": "https://i.postimg.cc/15vytQBQ/t-shirt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 29.99,
+      "description": "This is product 2.",
+      "image": "https://i.postimg.cc/CKHX1ms7/iphone11.webp"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 39.99,
+      "description": "This is product 3.",
+      "image": "https://i.postimg.cc/mkNy35hp/redmi.webp"
+    }
+  ]
+}
